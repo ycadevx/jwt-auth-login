@@ -1,4 +1,4 @@
-# Golang Authentication Login Web App
+# Login Authentication with Golang
 
 *Basic Authentication middleware for Fiber that provides an HTTP basic authentication*
 
